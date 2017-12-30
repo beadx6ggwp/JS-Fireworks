@@ -4,7 +4,7 @@ Happy new year!
 
 用JavaScript Canvas寫的簡易粒子特效，來做個跨年煙火。
 
-![Alt Text](example\firework3.gif)
+![Alt Text](example/firework3.gif)
 
 ## TODO
 
