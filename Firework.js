@@ -74,6 +74,10 @@ Firework.prototype.render = function (ctx) {
 Firework.prototype.CheckLife = function () {
     if (this.IsDead) return;
 
+    if (this.pos.y < 0) {
+        this.IsDead = true;
+    }
+
     if (CircleToCircle(this.pos, this.CollisionRadius, this.target, this.CollisionRadius) ||
         this.vel.y > 0) {
         this.IsDead = true;
