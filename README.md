@@ -2,7 +2,7 @@
 
 Happy new year!
 
-用JavaScript Canvas寫的簡易粒子特效，來做個跨年煙火。
+用JavaScript Canvas寫個簡易粒子特效，來做個跨年煙火。
 
 可以到此連結遊玩，使用滑鼠左鍵施放煙火
 
