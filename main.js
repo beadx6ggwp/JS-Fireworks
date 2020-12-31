@@ -139,7 +139,7 @@ function drawBackground(ctx) {
         fontPos1.x, fontPos1.y,
         "rgba(255,255,0,1)", fontSize, "orbitron",
         0, 0, 0);
-    let str2 = "2018";
+    let str2 = "2020";
     let fontPos2 = new Vector(
         width / 2 - str2.length * fontSize * 0.3 + offPos.x,
         height / 3 + fontSize + offPos.y
